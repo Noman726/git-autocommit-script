@@ -48,10 +48,6 @@ Want this script to run **24/7** without keeping your laptop on?
 
 ## 📜 License
 MIT License. Use it, tweak it, automate your life.
-
-## ✨ Author
-👨‍💻 **Aliasgar Sogiawala**  
-
-Built for **automation lovers** and **GitHub streak warriors** 🔥  
+*automation lovers** and **GitHub streak warriors** 🔥  
 
 Feel free to connect!
